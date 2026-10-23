@@ -9,3 +9,5 @@ My goal is to a calculator with features to suit my current academic needs. Thes
 etc.
 
 I aim to update this project regularly as my academic needs adapt.
+
+I've chosen to complete this project in python as it has many useful libraries to suit my needs - including pandas and matplotlib.
